@@ -1,0 +1,14 @@
+{
+  "17": {
+    "content": "- Genomgång av BFU-upplägget\n - Introduktion till webbvärlden (stacken)\n - Utvecklingsverktyg och miljö\n - Grunder i GitHub\n - Grunder i HTML"
+  },
+  "18": { "content": "- Grunder i CSS\n - CSS layout med flexbox" },
+  "19": { "content": "- Datalogiskt tänkande\n - Pseudokod" },
+  "20": { "content": "- JS datatyper\n - JS funktioner\n - JS loopar" },
+  "21": {
+    "content": "- JS kodflöde\n - JS datastrukturer (array + objekt)\n - JS datamanipulering"
+  },
+  "22": { "content": "- JS events och DOM interaktion" },
+  "23": { "content": "- Asynkron JS och API-anrop" },
+  "24": { "content": "- Examination (9/6 distans) och omprov (11/6 distans)" }
+}
