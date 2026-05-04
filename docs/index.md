@@ -7,11 +7,11 @@
  - Introduktion till webbvärlden (stacken)
  - Utvecklingsverktyg och miljö
  - Grunder i GitHub
- - Grunder i HTML
+
 
 ### Lektionsmaterial
 
-- **tisdag** – [lektion-2026-04-21](https://github.com/BFU25/lektion-2026-04-21) – –
+- **tisdag** – [lektion-2026-04-21](https://github.com/BFU25/lektion-2026-04-21) – Intro, kursens upplägg och vad webbutveckling innebär.
 
 ## Vecka 18
 
@@ -21,7 +21,7 @@
 
 ### Lektionsmaterial
 
-- **tisdag** – [lektion-2026-04-28](https://github.com/BFU25/lektion-2026-04-28) – –
+- **tisdag** – [lektion-2026-04-28](https://github.com/BFU25/lektion-2026-04-28) – Grunder i HTML och CSS
 
 ## ✅ Pågående: Vecka 19
 
