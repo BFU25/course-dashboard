@@ -1,4 +1,4 @@
-# 📚 Lektionsöversikt VT25
+# 📚 Lektionsöversikt VT26
 
 ## Vecka 17
 
@@ -11,7 +11,7 @@
 
 ### Lektionsmaterial
 
-- **tisdag** – [lektion-2025-04-22](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-04-22) – intro till BFU, Github och intro till HTML
+- **tisdag** – [lektion-2026-04-21](https://github.com/BFU25/lektion-2026-04-21) – –
 
 ## Vecka 18
 
@@ -21,9 +21,9 @@
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+- **tisdag** – [lektion-2026-04-28](https://github.com/BFU25/lektion-2026-04-28) – –
 
-## Vecka 19
+## ✅ Pågående: Vecka 19
 
 ### Veckans innehåll: 
  - Datalogiskt tänkande
@@ -31,7 +31,7 @@ _(Inga lektioner denna vecka än)_
 
 ### Lektionsmaterial
 
-- **måndag** – [lektion-2025-05-05](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-05) – –
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 20
 
@@ -42,7 +42,7 @@ _(Inga lektioner denna vecka än)_
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 21
 
@@ -53,7 +53,7 @@ _(Inga lektioner denna vecka än)_
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 22
 
@@ -62,7 +62,7 @@ _(Inga lektioner denna vecka än)_
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 23
 
@@ -71,14 +71,14 @@ _(Inga lektioner denna vecka än)_
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 24
 
 ### Veckans innehåll: 
- - Examination
+ - Examination (9/6 distans) och omprov (11/6 distans)
 
 ### Lektionsmaterial
 
-_(Inga lektioner denna vecka än)_
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
