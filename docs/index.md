@@ -31,7 +31,7 @@
 
 ### Lektionsmaterial
 
-- **tisdag** – [lektion-2026-05-05](https://github.com/BFU25/lektion-2026-05-05) – –
+- **tisdag** – [lektion-2026-05-05](https://github.com/BFU25/lektion-2026-05-05) – Datalogiskt tänkande och pseudokod
 
 ## Vecka 20
 
