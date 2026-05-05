@@ -31,7 +31,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **tisdag** – [lektion-2026-05-05](https://github.com/BFU25/lektion-2026-05-05) – –
 
 ## Vecka 20
 
