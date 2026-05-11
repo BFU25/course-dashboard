@@ -23,7 +23,7 @@
 
 - **tisdag** – [lektion-2026-04-28](https://github.com/BFU25/lektion-2026-04-28) – Grunder i HTML och CSS
 
-## ✅ Pågående: Vecka 19
+## Vecka 19
 
 ### Veckans innehåll: 
  - Datalogiskt tänkande
@@ -33,7 +33,7 @@
 
 - **tisdag** – [lektion-2026-05-05](https://github.com/BFU25/lektion-2026-05-05) – Datalogiskt tänkande och pseudokod
 
-## Vecka 20
+## ✅ Pågående: Vecka 20
 
 ### Veckans innehåll: 
  - JS datatyper
