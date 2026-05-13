@@ -42,7 +42,7 @@
 
 ### Lektionsmaterial
 
-- **tisdag** – [lektion-2026-05-12](https://github.com/BFU25/lektion-2026-05-12) – –
+- **tisdag** – [lektion-2026-05-12](https://github.com/BFU25/lektion-2026-05-12) – Introduktion till JS, variabler, villkor och funktioner
 
 ## Vecka 21
 
