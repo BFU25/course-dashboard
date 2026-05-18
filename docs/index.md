@@ -33,7 +33,7 @@
 
 - **tisdag** – [lektion-2026-05-05](https://github.com/BFU25/lektion-2026-05-05) – Datalogiskt tänkande och pseudokod
 
-## ✅ Pågående: Vecka 20
+## Vecka 20
 
 ### Veckans innehåll: 
  - JS datatyper
@@ -44,7 +44,7 @@
 
 - **tisdag** – [lektion-2026-05-12](https://github.com/BFU25/lektion-2026-05-12) – Introduktion till JS, variabler, villkor och funktioner
 
-## Vecka 21
+## ✅ Pågående: Vecka 21
 
 ### Veckans innehåll: 
  - JS kodflöde
