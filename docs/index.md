@@ -44,7 +44,7 @@
 
 - **tisdag** – [lektion-2026-05-12](https://github.com/BFU25/lektion-2026-05-12) – Introduktion till JS, variabler, villkor och funktioner
 
-## ✅ Pågående: Vecka 21
+## Vecka 21
 
 ### Veckans innehåll: 
  - JS kodflöde
@@ -55,7 +55,7 @@
 
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 22
+## ✅ Pågående: Vecka 22
 
 ### Veckans innehåll: 
  - JS events och DOM interaktion
