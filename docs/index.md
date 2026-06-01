@@ -55,7 +55,7 @@
 
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## ✅ Pågående: Vecka 22
+## Vecka 22
 
 ### Veckans innehåll: 
  - JS events och DOM interaktion
@@ -64,7 +64,7 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 23
+## ✅ Pågående: Vecka 23
 
 ### Veckans innehåll: 
  - Asynkron JS och API-anrop
