@@ -64,7 +64,7 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## ✅ Pågående: Vecka 23
+## Vecka 23
 
 ### Veckans innehåll: 
  - Asynkron JS och API-anrop
@@ -73,7 +73,7 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 - **tisdag** – [lektion-2026-06-02](https://github.com/BFU25/lektion-2026-06-02) – –
 
-## Vecka 24
+## ✅ Pågående: Vecka 24
 
 ### Veckans innehåll: 
  - Examination (9/6 distans) och omprov (11/6 distans)
